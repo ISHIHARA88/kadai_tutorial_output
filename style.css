@@ -840,11 +840,11 @@ footer {
   }
 
   /* ABOUT US */
-  #about us {
+  #aboutus {
     margin: 80px 20px 80px 20px;
   }
 
-  #about us > div {
+  #aboutus > div {
     flex-direction: column;
   }
 
